@@ -2,6 +2,8 @@
 A collection of Power BI dashboards created to analyze different business scenarios and datasets.
 There is available an interactive dashboards in this file uploaded and many useful insights that  i can generate with help of youtube vedios, my learning skills , and whatever i learnt in course of master in data science and ai .
 
+PROJECT LINK: file:///C:/Users/HP/Downloads/BI%20DASHBOARDS.pdf
+
 DETAIL EXPLANATION OF EVERY PROJECT GIVEN BELOW:
 
 ✅ 1️⃣ Coffee Shop Sales Dashboard (Power BI)
